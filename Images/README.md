@@ -1,3 +1,3 @@
 # Images
 
-This folder contains project photographs, CAD renders, wiring diagrams, and testing images.
+This folder contains project photographs, and testing images.
